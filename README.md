@@ -1,19 +1,5 @@
 Türkçe
-
-Merhaba ben İnanç ÇOLAK. İzmir'de ikamet etmekteyim . Lise eğitimimi Tire Belgin Atila Çallıoğlu Fen Lisesinde tamamlayıp üniversite eğitimim için Fırat Üniversite'sinde eğitim almaya başladım.
-Şu an Fırat Üniversitesi Mühendislik Fakültesinde Yazılım Mühendisliği 1.sınıf öğrencisiyim.
-Şu an ilgi alanlarım olan Siber Güvenlik ve Web Programlama alanlarında çalışmalarımı sürdürmekteyim.
-Bunun dışında Photoshop ve Grafik Tasarım alanlarında kendimi geliştirmek ve iyi seviyelere ulaşmak için çabalıyorum.
-Genel olarak yeni şeyler öğrenmeyi , farklı alanlarda kendimi geliştirmeyi ve bir proje üzerinde vakit harcamaktan keyif alıyorum.
-Profilimdeki mail adresleri üzerinden benimle iletişime geçebilirsiniz.
-Herkese iyi çalışmalar.
+Merhaba ben İnanç Çolak. Fırat Üniversitesi Mühendislik Fakültesi Yazılım Mühendisliği 2.Sınıf öğrencisiyim. Ağırlıklı olarak siber güvenlik olmak üzere WEB Programlama , Yapay Zeka ve Siber Güvenlik alanlarında çalışmaktayım. Kendimi siber güvenlik alanında geliştirip kariyerimin devamında siber güvenlik alanında çalışmak istiyorum. Yeni şeyler öğrenmeyi , takım halinde çalışmayı seviyorum. Github profilimi yenilediğim için henüz bir şey yok ama yeni projeler ürettikçe profilimi doldurmaya devam edeceğim.
 
 English
-
-Hello, I am İnanç ÇOLAK. I reside in Izmir. I completed my high school education at Tire Belgin Atila Çallıoğlu Science High School and started to study at Fırat University for my university education.
-I am currently a 1st year student of Software Engineering at Fırat University Faculty of Engineering.
-I am currently working in the fields of Cyber Security and Web Programming, which are my areas of interest.
-Apart from that, I strive to improve myself in Photoshop and Graphic Design and to reach good levels.
-In general, I enjoy learning new things, improving myself in different fields and spending time on a project.
-You can contact me via the e-mail addresses in my profile.
-Good work everyone.
+Hello, I am Inanc Colak. I am a 2nd year student of Software Engineering at Fırat University Faculty of Engineering. I work in the fields of WEB Programming, Artificial Intelligence and Cyber Security, mainly cyber security. I want to develop myself in the field of cyber security and work in the field of cyber security in the continuation of my career. I love learning new things and working in a team. There is nothing yet because I renewed my Github profile, but I will continue to fill my profile as I produce new projects.
