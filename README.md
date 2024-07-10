@@ -1,8 +1,8 @@
 ### Hi I'm İnanc !
 
 🏫 Studied Software Engineering at Firat University of Elazig, Turkey<br/>
-🧑‍💼 Through my work in cyber security and artificial intelligence, I am increasing my knowledge in these fields<br/><br/>
-🌟 I am passionate about developing innovative solutions and continuously enhancing my skills in software engineering, cybersecurity, and AI.
+🧑‍💼 Through my work in cyber security and artificial intelligence, I am increasing my knowledge in these fields<br/>
+🌟 I am passionate about developing innovative solutions and continuously enhancing my skills in software engineering, cybersecurity, and AI.<br/>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/inanccolk_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/colak-inanc12) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@colak.inanc12) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/colak_inanc00) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/colak_inanc0) 
