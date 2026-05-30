@@ -1,18 +1,102 @@
-# 💫 About Me:
-Hi, I'm İnanç 👋<br><br>I'm a backend developer driven by curiosity and a passion for building well-structured systems. My interest in software goes beyond writing code—what truly excites me is understanding how systems work and making them more efficient and secure. Over time, I’ve specialized in backend technologies, explored the world of cybersecurity, and more recently, started focusing on cloud technologies to create scalable and flexible architectures. <br><br>While technical growth is important to me, I also place a high value on communication and teamwork. I enjoy meeting new people, collaborating on ideas, and learning from different perspectives. Staying active through sports helps me maintain both discipline and balance in life. I'm someone who loves to learn, create, and grow—with others, not just alone.<br><br>📫 Feel free to reach out on [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/colak-inanc12) if you’d like to connect.
+<div align="center">
+  <a href="https://github.com/colak-inanc">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=45&pause=1000&color=00B4D8&center=true&vCenter=true&width=800&height=120&lines=Hi,+I'm+İnanç+👋;Welcome+to+my+Profile" alt="Header" />
+  </a>
+</div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="500" style="border-radius: 10px;" alt="Coding Animation" />
+</div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/inanccolk_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/colak-inanc12) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@colak.inanc12) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/colak_inanc0) 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Jr.+DevOps+Engineer;Building+Cloud-Native+Systems;Docker+%E2%80%A2+Kubernetes+%E2%80%A2+Terraform;CI%2FCD+%26+GitOps+Enthusiast;Cloud-Focused+Backend+Developer;Continuous+Learner" alt="Typing SVG" />
+  </a>
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=colak-inanc&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=colak-inanc&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=colak-inanc&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
+
+### 💫 About Me
+
+I'm a final-year Software Engineering student and Jr. DevOps Engineer with a strong foundation in backend development and a growing focus on cloud-native systems. My journey started with Java and Spring Boot, and over time expanded into DevOps, cloud computing, infrastructure automation, and system reliability.
+
+I enjoy designing and improving scalable, secure, and well-structured systems using technologies such as Docker, Kubernetes, Terraform, CI/CD pipelines, GitOps, Prometheus, Grafana, AWS, and Huawei Cloud. Having a backend background helps me understand not only how infrastructure works, but also how applications behave within modern cloud environments.
+
+Alongside my technical work, I actively contribute to developer communities, technical content programs, and cloud training initiatives. I value continuous learning, teamwork, and knowledge sharing, and I try to grow not only as an engineer but also as someone who can collaborate, communicate, and create impact with others.
+
+I'm especially interested in Cloud Engineering, DevOps, Platform Engineering, and secure software development. I also enjoy exploring AI-driven projects, especially where software, data, and real-world problems come together.
+
+Outside of technology, staying active through sports helps me maintain discipline, balance, and focus.
+
+📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/colak-inanc12).
+
 
 ---
-[![](https://visitcount.itsvg.in/api?id=colak-inanc&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🛠️ Tech Stack
+
+<div align="center">
+
+**Backend & Architecture**<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,spring,py,kafka,rabbitmq&theme=dark" />
+</a>
+<br/><br/>
+
+**Databases & Caching**<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,elasticsearch&theme=dark" />
+</a>
+<br/><br/>
+
+**Cloud & Infrastructure**<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,linux,bash&theme=dark" />
+</a>
+<br/><br/>
+
+**DevOps, CI/CD & Containers**<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,ansible,git,gitlab,githubactions,bitbucket&theme=dark" />
+</a>
+<br/><br/>
+
+**Monitoring & Observability**<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" />
+</a>
+
+</div>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=colak-inanc&theme=radical&hide_border=true&background=0D1117&ring=00B4D8&fire=00B4D8&currStreakNum=ffffff" height="150" alt="GitHub Streak" />
+</div>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=colak-inanc&theme=radical" width="70%" />
+</p>
+
+---
+
+### 📫 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/colak-inanc12"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://medium.com/@colak.inanc12"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+</div>
+
+<br/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=colak-inanc&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
+
+---
+
+<div align="center">
+  <h3>🏙️ 3D Contribution City</h3>
+  <img src="https://raw.githubusercontent.com/colak-inanc/colak-inanc/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="80%" />
+</div>
