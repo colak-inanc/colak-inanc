@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/colak-inanc">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=45&pause=1000&color=00B4D8&center=true&vCenter=true&width=800&height=120&lines=Hi,+I'm+İnanç+👋;Welcome+to+my+Profile" alt="Header" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=45&pause=1000&color=00B4D8&center=true&vCenter=true&width=800&height=120&lines=Hi,+I%27m+%C4%B0nan%C3%A7;Welcome+to+my+Profile" alt="Header" />
   </a>
 </div>
 
